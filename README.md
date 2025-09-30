@@ -5,3 +5,5 @@
 [HTTP запросы](/ueHttpReq.md)
 
 [Захват видеопотока](/ue5stream.md)
+
+[Сериализация координат](/ueSerdeCoord.md)
